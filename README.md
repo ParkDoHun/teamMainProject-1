@@ -3,9 +3,8 @@
 
 ## 개발환경
 ### ✅ Client<br>
-- HTML5
-- CSS3
-- JavaScript<br>
+- Chrome
+- Visual Studio Code
 ### ✅ Server<br>
 - NodeJS<br>
 - Spring Boot
